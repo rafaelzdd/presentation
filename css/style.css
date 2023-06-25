@@ -55,7 +55,7 @@ div > img {
 }
 
 .helicopter {
-  grid-area: 2 / 4 / 3 / 4;
+  grid-area: 2 / 3 / 3 / 3;
   position: relative;
   top: 0;
   left: 0;
