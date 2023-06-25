@@ -67,7 +67,7 @@ div > img {
   margin: 0;
 }
 
-@keyframes mover {
+.@keyframes mover {
   100% {
     transform: translateX(0);
   }
