@@ -253,4 +253,16 @@ footer {
   .dev-pilot {
     font-size: 1.5rem;
   }
+  
+  .hero {
+    background: linear-gradient(180deg, #1F6E8C, #1F6E8C, #99DBF5,#99DBF5, #99DBF5, #99DBF5);
+  }
+
+  .apresentacao {
+    font-size: 1.4rem;
+  }
+
+  .chamada {
+    font-size: 1.4rem;
+  }
 }
