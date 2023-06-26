@@ -60,7 +60,6 @@ div > img {
   left: 0;
   animation: mover 12s linear infinite;
   overflow: hidden;
-  text-align: right;
 }
 
 #helicopter {
